@@ -12,5 +12,17 @@
 10- Rede Neural Artificial - são métodos de Deep Learning com capacidade de reconhecimento de padrões complexos ou numerosos e com função de aprendizado dentro da própria rede
 
 
+Segundo trabalho (aula 3)
 
+Comente sobre a relação entre a LGPD e os Data Centers no Brasil 
+Resposta- O LGPD obriga as organizações a serem mais responsáveis com o gerenciamento das informações armazenadas. Esse aspecto mostra a necessidade de um cuidado especial com a administração do Data Center, Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam ser acessados a qualquer momento. A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos da LGPD.
 
+Formatos de arquivos de dados proprietários e abertos
+Resposta - Exemplos : OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório)
+LaTeX (uma linguagem de documentação)
+Json (uma linguagem de documentação)
+EPUB (formato de arquivo digital)
+DVI (uma linguagem para descrição de página)
+
+ discuta as implicações relacionadas a dados públicos
+Resposta - São considerados os dados de interesse público aqueles que representam o interesse coletivo, por motivos de segurança ou prestação de contas à sociedade.Quando as informações pessoais não são protegidas adequadamente, indivíduos não autorizados podem obter acesso a elas. Isso pode resultar em roubo de identidade, fraude financeira e outros tipos de crimes cibernéticos.
