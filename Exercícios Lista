@@ -1,0 +1,43 @@
+Nome:Luiz Eduardo Estrella
+
+
+1) Ubiquidade da computação é um termo relacionado a como a computação permeia a nossa existência, ela envolve a gente - uber, ifood, ...
+3 motivos principais:
+1- usar a computação como uma ferramenta, processos digitais, audiência remota, manipulação de documentos
+2- tomada de decisões de gestão, investimentos, padronização de tecnologia, ...
+3 (principal para o direito) - como a relação entre as pessoas, hoje, esta permeada pela computação, para exercer o direito é necessário entender a computação, ja que trata das relações entre as pessoas - ex: existem hoje leis trabalhistas especificas para o trabalho no meio digital, sucessão de assets digitais, e etc
+2)
+A) sequência finita de acoes executáveis que visam obter a solução para determinado tipo de problema
+B) Definições certas: Rede global de servidores, armazenamento de dados em rede, e camada de abstração sobre um conjunto de hardware (programa que instalamos, que faz que a gente veja vários computadores como se fossem um só)
+C) Tem níveis de abstração, pode ser uma máquina ou programa que presta para outros programas, os clientes na rede
+D) Não é sobre liberdade de expressão ou acesso para todo tipo de conteúdo, é pensado para que todos os provedores de internet tratem o trafego na rede de forma igual, sem discriminar ou cobrar de forma diferente, não podendo privilegiar nenhum trafego *Princípio na legislação
+E) Conjunto de dados que é semanticamente relacionado (representa uma informação)
+3) Para agrupar, nos abstraímos das características que não são relevantes. Ou seja, a capacidade de abstração nos permite agrupar na palavra internet todos os outros conceitos.
+                                 
+ 4) O computador foi inventado para fazer a mesma coisa varias vezes, então ele consegue repetir infinitas vezes aquilo que ele foi programado para fazer. Automatização
+5)1- Decisão medica precisa ser tomada por um medico, em relação a concessão de empréstimo, a negativa da concessão de empréstimo deve ser justificada, e a rede neural, por característica tem muita dificuldade de explicar a motivação das respostas, existem inúmeros parâmetros que motivam a decisão, não conseguindo explicar.
+2- Sim, existem algoritmos usados no meio medico, que analisam imagens e auxiliam os médicos. Algoritmo da árvore de decisão - é construindo a partir de um algoritmo de ia e é claramente explicável, por isso pode ser utilizado em situações de analise de créditos
+6) Tanto no arquivo binário quanto no de texto, a linguagem é 0 e 1, mas no arquivo de texto, os 0 e 1s representam sempre textos, já no binários, eles podem significar carácteres, cores, números inteiros, ...
+7) Não tem a ver com segurança, a diferença principal é sobre a publicidade da especificação dos formatos, os proprietários são controlados por empresas ou constituições que licenciam seus interesses e os abertos são públicos.
+O TCU tem uma normas que recomendam que todos os dados públicos deveriam ser em formato aberto, o que nem sempre acontece porque nem sempre querem expor 100%, alem da questão valorativa, porque os proprietários garantem maior valor
+8) o protocolo de comunicação aberto tem especificação publica e todas as empresas podem desenvolver comunicações com ele, facilitando o surgimento de novas aplicações, as viabilizando. Em relação a liberdade econômica, mais empresas conseguem produzir novas aplicações. os protocolos de de comunicação proprietárias viabilizam, a informação, no sentido de que podem ser remunerados pelas aplicações criadas, vendendo licenças para o
+                                
+ acesso e possibilita a inovação.
+9)
+A)Programa ou conjunto de programas que administra o hardware, interface entre os outros programas e os componentes físicos
+B) Não, existem vários, windows, Linux, macOS, ...
+C) Não, o argumento que viabiliza as vendas casadas no Brasil é o argumento de que é uma parte essencial para o funcionamento
+Sim, não existem um único sistema operacional, poderíamos escolher o hardware que quiséssemos utilizar
+10)
+A) Envolve datacenters estrangeiros se estiver envolvendo dados coletados no território brasileiro
+B)
+1-
+2- fake news não é crime, e pode não ferir a comunidade
+11)
+A) for e while
+B) Cada bloco é caracterizado por : e indentação
+C) Soma e concatenação de textos (união de 2 textos - gerando um texto novo com todos os carácteres)
+D) Elemento do programa, bloco de código que você pode chamar e executar várias vezes E) Para definir uma função, usa a palavra chave def, seguido do nome da função e a lista de parâmetros opcional entre parênteses
+F) if, if-else, if-elif-else
+Ex////
+if cor== _
